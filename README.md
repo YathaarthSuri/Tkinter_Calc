@@ -7,4 +7,4 @@ It can also perform calculations on decimals.
 
 It also clears the screen as and when required.
 
-/Users/yathaarthsuri/Desktop/Python 3/venv/Calculator/capture.png
+![Calculator](https://github.com/YathaarthSuri/Tkinter_Calc/blob/master/Capture.png)
